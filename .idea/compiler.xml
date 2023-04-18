@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="NMS_1_19_4" />
+        <module name="Plugin_Spigot" />
+        <module name="API" />
+        <module name="NMS_1_19_3" />
+        <module name="NMS_API" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="API" target="1.8" />
+      <module name="JsonMenuTitles" target="1.5" />
+      <module name="NMS_1_19_3" target="16" />
+      <module name="NMS_1_19_4" target="16" />
+      <module name="NMS_API" target="17" />
+      <module name="Plugin_Spigot" target="14" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

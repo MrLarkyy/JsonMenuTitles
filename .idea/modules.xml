@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NMS_API/API.iml" filepath="$PROJECT_DIR$/NMS_API/API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JsonMenuTitles.iml" filepath="$PROJECT_DIR$/JsonMenuTitles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NMS_1_19_3/NMS_1_19_3.iml" filepath="$PROJECT_DIR$/NMS_1_19_3/NMS_1_19_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NMS_1_19_4/NMS_1_19_4.iml" filepath="$PROJECT_DIR$/NMS_1_19_4/NMS_1_19_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/API/NMS_API.iml" filepath="$PROJECT_DIR$/API/NMS_API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plugin_Spigot/Plugin_Spigot.iml" filepath="$PROJECT_DIR$/Plugin_Spigot/Plugin_Spigot.iml" />
+    </modules>
+  </component>
+</project>

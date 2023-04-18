@@ -1,0 +1,4 @@
+name: JsonMenuTitles
+version: '${project.version}'
+main: xyz.larkyy.jsonmenutitles.plugin_spigot.JsonMenuTitles
+api-version: 1.19
